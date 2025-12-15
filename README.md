@@ -1,28 +1,17 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Khalil+Ghouddan;Python+Lover+%F0%9F%90%8D%F0%9F%92%96;Future+Data+Scientist;AI+%26+Computer+Vision+Expert" alt="Typing SVG" />
 
-<br/><br/>
+
 
 <div align="center">
-    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150" alt="Python Love" />
+    <img src="https://github.com/khalilghouddan/KhalilGhouddan/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius:10px" />
 </div>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2VjODk1Y2I4MzI2ODFjNTY0YzQ2YjE5YjQ2YjE5YjQ2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="180" alt="Cute Cat Coding" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/khalil-ghouddan-90481a268)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:khalilghouddan3@gmail.com)
-[![Location](https://img.shields.io/badge/Rabat-Morocco-ff69b4?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=101010)](https://maps.google.com/?q=Rabat,Morocco)
-
-</div>
 
 
-
-
-<div align="center">
-    <img src="https://media.giphy.com/media/huIGD8722cKfb0N0U0/giphy.gif" width="100%" style="border-radius:10px" />
 </div>
 
 <br/>
@@ -121,9 +110,7 @@
 
 
 
-<div align="center">
-    <img src="https://media.giphy.com/media/xUPGcxpCV81ebKh7nV/giphy.gif" width="100%" style="border-radius:10px" />
-</div>
+
 
 <div align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
