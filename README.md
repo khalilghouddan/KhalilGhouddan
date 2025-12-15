@@ -15,7 +15,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/khalil.ghouddan/)
 
 </div>
-<hr/>
 
 ### 🌍 Languages
 
