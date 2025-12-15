@@ -18,18 +18,14 @@
 
 </div>
 
-<hr/>
 
-### 🎓 Education
 
-| **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** |
-|:---:|:---:|:---:|
-| **Master’s in Applied AI (MIAGE – IA)** | 🏫 *University of Nice Côte d’Azur* | *Ongoing* |
-| **Engineering in CS & Networks (MIAGE)** | 🏫 *EMSI – Rabat, Morocco* | *Ongoing* |
-| **Baccalaureate in Physical Sciences** | 🏫 *Al Abrar High School* | *June 2021* |
 
-<hr/>
+<div align="center">
+    <img src="https://media.giphy.com/media/huIGD8722cKfb0N0U0/giphy.gif" width="100%" style="border-radius:10px" />
+</div>
 
+<br/>
 
 ### 🛠️ Technical Skills
 
@@ -95,8 +91,14 @@
 
 <hr/>
 
+<br/>
 
-<hr/>
+<div align="center">
+    <img src="https://media.giphy.com/media/uDSxW2v8N9E08/giphy.gif" width="100%" style="border-radius:10px" />
+</div>
+
+<br/>
+
 
 ### 🌍 Languages
 
@@ -105,7 +107,7 @@
 *   **French**: B2 Level (DELF) 🇫🇷
 *   **Spanish**: Intermediate 🇪🇸
 
-<br/>
+<hr/>
 
 ### 📈 GitHub Stats
 
@@ -118,6 +120,10 @@
 </div>
 
 
+
+<div align="center">
+    <img src="https://media.giphy.com/media/xUPGcxpCV81ebKh7nV/giphy.gif" width="100%" style="border-radius:10px" />
+</div>
 
 <div align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
