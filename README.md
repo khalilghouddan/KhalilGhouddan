@@ -8,10 +8,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/khalil-ghouddan-90481a268)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:khalilghouddan3@gmail.com)
+<h2 align="center">Hi, I'm an AI Engineer and Data Miner!</h2>
 
+<br/>
 
+<div align="center">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/khalil-ghouddan-90481a268)
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:khalilghouddan3@gmail.com)
 </div>
 
 <br/>
@@ -72,21 +75,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Sqfu14lWyX152iDayl/giphy.gif" width="50" />
-</div>
 
 
-
-<hr/>
-
-<br/>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/uDSxW2v8N9E08/giphy.gif" width="100%" style="border-radius:10px" />
-</div>
-
-<br/>
 
 
 ### 🌍 Languages
