@@ -107,13 +107,9 @@
 <hr/>
 
 ### 📈 GitHub Stats
-
 <div align="center">
-
-[![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilghouddan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilghouddan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
-
+   <img src="https://github-readme-stats.vercel.app/api?username=khalilghouddan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilghouddan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
