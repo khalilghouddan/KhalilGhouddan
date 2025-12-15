@@ -22,7 +22,8 @@
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/huIGD8722cKfb0N0U0/giphy.gif" width="100%" style="border-radius:10px" />
+    <!-- Coffe & Pixel Art Scenery (Reliable Source) -->
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2VjODk1Y2I4MzI2ODFjNTY0YzQ2YjE5YjQ2YjE5YjQ2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="100%" style="border-radius:10px" />
 </div>
 
 <br/>
@@ -94,7 +95,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/uDSxW2v8N9E08/giphy.gif" width="100%" style="border-radius:10px" />
+    <!-- Train Window Scenery -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-6d0b-46a7-9359-39b5635cb045.gif" width="100%" style="border-radius:10px" />
 </div>
 
 <br/>
@@ -122,7 +124,8 @@
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/xUPGcxpCV81ebKh7nV/giphy.gif" width="100%" style="border-radius:10px" />
+    <!-- Coding Pixel Landscape -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius:10px" />
 </div>
 
 <div align="center">
