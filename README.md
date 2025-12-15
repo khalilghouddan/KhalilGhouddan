@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Khalil+Ghouddan;Future+Data+Scientist;AI+%26+Computer+Vision+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Khalil+Ghouddan;Python+Lover+%F0%9F%90%8D%F0%9F%92%96;Future+Data+Scientist;AI+%26+Computer+Vision+Expert" alt="Typing SVG" />
 
 <br/><br/>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="150" alt="Python Love" />
+</div>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2VjODk1Y2I4MzI2ODFjNTY0YzQ2YjE5YjQ2YjE5YjQ2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="180" alt="Cute Cat Coding" />
 
@@ -18,7 +22,7 @@
 
 ### 🎓 Education
 
-| **Degree** | **Institution** | **Date** |
+| **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Degree&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** |
 |:---:|:---:|:---:|
 | **Master’s in Applied AI (MIAGE – IA)** | 🏫 *University of Nice Côte d’Azur* | *Ongoing* |
 | **Engineering in CS & Networks (MIAGE)** | 🏫 *EMSI – Rabat, Morocco* | *Ongoing* |
@@ -41,15 +45,23 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 
-**💻 Programming**
+**💻 Programming & Development**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br/>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=flat-square&logo=java&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A4A5?style=flat-square&logo=latex&logoColor=white)
 
 **🌩️ MLOps & Cloud**
 <br/>
@@ -83,15 +95,6 @@
 
 <hr/>
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-[![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilghouddan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilghouddan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <hr/>
 
@@ -103,6 +106,18 @@
 *   **Spanish**: Intermediate 🇪🇸
 
 <br/>
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+[![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilghouddan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilghouddan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 <div align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
