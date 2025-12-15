@@ -15,6 +15,9 @@
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/khalil-ghouddan-90481a268)
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:khalilghouddan3@gmail.com)
 
+    </div>
+
+
 <br/>
 
 ### 🛠️ Technical Skills
@@ -74,7 +77,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/khalilghouddan/KhalilGhouddan/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khalilghouddan/KhalilGhouddan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khalilghouddan/KhalilGhouddan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khalilghouddan/KhalilGhouddan/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
