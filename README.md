@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" height="auto" alt="Banner" style="max-width: 600px; border-radius: 20px;" />
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Khalil+Ghouddan;Future+Data+Scientist;AI+%26+Computer+Vision+Lover" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2VjODk1Y2I4MzI2ODFjNTY0YzQ2YjE5YjQ2YjE5YjQ2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="180" alt="Cute Cat Coding" />
 
@@ -18,11 +14,7 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Qhh32qfR2vBkc/giphy.gif" width="50" />
-</div>
+<hr/>
 
 ### 🎓 Education
 
@@ -32,11 +24,8 @@
 | **Engineering in CS & Networks (MIAGE)** | 🏫 *EMSI – Rabat, Morocco* | *Ongoing* |
 | **Baccalaureate in Physical Sciences** | 🏫 *Al Abrar High School* | *June 2021* |
 
-<br/>
+<hr/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" /> 
-</div>
 
 ### 🛠️ Technical Skills
 
@@ -90,23 +79,27 @@
   <img src="https://media.giphy.com/media/Sqfu14lWyX152iDayl/giphy.gif" width="50" />
 </div>
 
+
+
+<hr/>
+
 ### 📈 GitHub Stats
 
 <div align="center">
 
-[![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilghouddan&show_icons=true&theme=buefy&hide_border=true&bg_color=161b22&title_color=F75C7E&icon_color=F75C7E)](https://github.com/anuraghazra/github-readme-stats)
+[![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilghouddan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilghouddan&layout=compact&theme=buefy&hide_border=true&bg_color=161b22&title_color=F75C7E)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilghouddan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<br/>
+<hr/>
 
 ### 🌍 Languages
 
 *   **Arabic**: Native 🇲🇦
 *   **English**: Fluent 🇺🇸
-*   **French**: DELF B2 🇫🇷
+*   **French**: B2 Level (DELF) 🇫🇷
 *   **Spanish**: Intermediate 🇪🇸
 
 <br/>
@@ -116,3 +109,4 @@
     <br/>
     Thanks for visiting! 💖
 </div>
+
