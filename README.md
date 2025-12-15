@@ -15,9 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/khalil.ghouddan/)
 
 </div>
-<br/>
-
-<br/>
+<hr/>
 
 ### 🌍 Languages
 
@@ -25,7 +23,7 @@
   <b>Arabic</b>: Native 🇲🇦 &nbsp; | &nbsp; <b>English</b>: Fluent 🇺🇸 &nbsp; | &nbsp; <b>French</b>: B2 (DELF) 🇫🇷 &nbsp; | &nbsp; <b>Spanish</b>: Intermediate 🇪🇸
 </div>
 
-<br/><br/>
+<hr/>
 
 <br/>
 
