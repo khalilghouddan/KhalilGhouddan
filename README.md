@@ -129,7 +129,8 @@
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+    <!-- Super Mario Programming/Gaming -->
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" style="border-radius:10px" alt="Mario" />
     <br/>
     Thanks for visiting! 💖
 </div>
