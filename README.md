@@ -20,6 +20,7 @@
 </div>
 
 <br/>
+
 ### 🛠️ Technical Skills
 
 <div align="center">
