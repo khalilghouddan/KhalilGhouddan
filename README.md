@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <img src="./img/dd.gif" width="80%" style="border-radius:10px" />
+    <img src="./img/dd.gif" width="70%" style="border-radius:10px" />
 </div>
 
 <br/>
