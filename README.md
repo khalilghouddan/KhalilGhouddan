@@ -108,9 +108,6 @@ A retrieval-augmented chatbot for entrepreneurs and employees that helps answer 
 </div>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilghouddan&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 
 <div align="center">
