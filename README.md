@@ -23,8 +23,14 @@
   <a href="mailto:khalilghouddan3@gmail.com" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;" style="margin:0 8px; display:inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" height="28" />
   </a>
-  <a href="[https://drive.google.com/file/d/135IkURFp5hPKtNGIfjtLaac2mt_DP_Un/view](https://drive.google.com/file/d/1j_XbVaSFueqmjleesjbBN-_pnONpRgeE/view)" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;" style="margin:0 8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010" alt="Resume" height="28" />
+<a href="https://drive.google.com/file/d/1j_XbVaSFueqmjleesjbBN-_pnONpRgeE/view"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="margin:0 8px; display:inline-block;">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010"
+         alt="Resume"
+         height="28" />
+</a>
   </a>
   <a href="https://www.instagram.com/khalil.ghouddan/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;" style="margin:0 8px; display:inline-block;">
     <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" height="28" />
