@@ -43,7 +43,7 @@
 ### 🌍 Languages
 
 <p align="center">
-  <b>Arabic</b>: Native 🇲🇦 &nbsp; | &nbsp; <b>English</b>: C1 (EFSET) 🇺🇸 &nbsp; | &nbsp; <b>French</b>: B2 (DELF) 🇫🇷 &nbsp; | &nbsp; <b>Spanish</b>: A1 (Intermediate) 🇪🇸
+  <b>Arabic</b>: Native 🇲🇦 &nbsp; | &nbsp; <b>English</b>: C1 (EFSET) 🇺🇸 &nbsp; | &nbsp; <b>French</b>: B2 (DELF) 🇫🇷 &nbsp; | &nbsp; <b>Spanish</b>: A2 (Intermediate) 🇪🇸
 </p>
 
 ---
