@@ -61,6 +61,7 @@
 Designed and orchestrated a multi-agent AI for automated course generation, combining LLM orchestration, and web research to produce structured multi-day learning programs with up-to-date information. Implemented an LLM-as-a-Judge mechanism to evaluate task requirements and dynamically. Generated 6 hours of course content in less than 180 seconds.
 
 `Python` `LangGraph` `Multi-Agent Systems` `LLM-as-a-Judge`
+
 <a href="https://github.com/khalilghouddan/courseGenerationWithLangraphAndCrawl4ai" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;">→ View repo</a>
 
 
