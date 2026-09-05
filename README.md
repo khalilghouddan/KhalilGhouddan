@@ -58,9 +58,10 @@
 
 **🧠 Multi-Agent Course Generation**
 
-A multi-agent course generation system built with DeepAgent and LangChain to create structured, high-quality learning content through agent-based orchestration.
+Designed and orchestrated a multi-agent AI for automated course generation, combining LLM orchestration, and web research to produce structured multi-day learning programs with up-to-date information. Implemented an LLM-as-a-Judge mechanism to evaluate task requirements and dynamically. Generated 6 hours of course content in less than 180 seconds.
 
-`Python` `LangChain` `DeepAgent` `LLM Orchestration`
+`Python` `LangGraph` `Multi-Agent Systems` `LLM-as-a-Judge`
+<a href="https://github.com/khalilghouddan/courseGenerationWithLangraphAndCrawl4ai" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;">→ View repo</a>
 
 
 </td>
@@ -68,9 +69,9 @@ A multi-agent course generation system built with DeepAgent and LangChain to cre
 
 **🕸️ Web Scraping Pipeline**
 
-A data project for web scraping and research engineering using Crawl4AI, designed to collect and normalize web data with an 87% scraping success rate.
+Developed two independent, reusable web data services: a customized **SearXNG search engine** for web research and **Crawl4AI** for high-volume web crawling, scraping, and content extraction. Designed as shared services consumed by multiple AI projects to reduce reliance on paid search and scraping APIs and lower infrastructure costs. Achieved a **95% scraping success rate**.
 
-`Python` `Crawl4AI` `searchXNG` `Data Pipelines`
+`Python` `Crawl4AI` `SearXNG` `Web Scraping` `Search Engine` `Data Pipelines` `Microservices`
 
 <a href="https://github.com/khalilghouddan/crawl4ai-project" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank', 'noopener,noreferrer'); return false;">→ View repo</a>
 
@@ -92,10 +93,9 @@ A multi-agent system powered by the Google ADK that reads news sources and predi
 
 **🤖 Internal RAG Chatbot**
 
-A retrieval-augmented chatbot for entrepreneurs and employees that helps answer internal questions using company knowledge and documentation.
+Designed and integrated a retrieval-augmented chatbot into the **GLPI platform** to help employees and entrepreneurs answer internal questions using company knowledge and documentation. Built a RAG pipeline powered by **Qwen2.5** to retrieve relevant context and generate knowledge-grounded responses, achieving an average **question-response time of 1.8 seconds**.
 
-`RAG` `Chatbot` `Enterprise` `Flask`
-
+ `Python` `Flask` `RAG` `Embeddings` `Vector Database` `GLPI` `Enterprise AI`
 
 </td>
 </tr>
